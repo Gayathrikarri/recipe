@@ -1,0 +1,80 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+section {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+#recipe-list .recipe,
+#search-results .recipe {
+    margin: 10px 0;
+}
+/* Add these styles to your existing styles.css file */
+
+.user-info-bar {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-info-bar button {
+    margin-left: auto;
+}
+
+#add-recipe-btn {
+    font-size: 18px;
+}
+/* Add these styles to your existing styles.css file */
+
+.user-info-bar {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user-info-bar button {
+    margin-left: auto;
+}
+
+#add-recipe-btn {
+    font-size: 18px;
+}
+
+.recipe {
+    margin: 10px 0;
+}
+/* Add these styles to your existing styles.css file */
+
+
+.card {
+    height: 100%;
+}
+
+/* Bootstrap Colors for Typography */
+h2, p {
+    color:black; /* Bootstrap Primary Color for headers and text */
+}
+
+/* Bootstrap Color for Buttons */
+.btn-primary {
+    background-color: aqua; /* Bootstrap Primary Color for buttons */
+    border-color: aquamarine;
+}
+
+.btn-outline-success {
+    color: #28a745; /* Bootstrap Success Color for outline buttons */
+    border-color: #28a745;
+}
